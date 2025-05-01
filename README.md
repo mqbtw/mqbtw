@@ -1,6 +1,5 @@
 # Привет! Я Python-разработчик 👋
 
-![Python](https://img.shields.io/badge/python-3.10-blue) ![Django](https://img.shields.io/badge/django-4.2-green) 
 
 Добро пожаловать в мой GitHub-репозиторий! Здесь вы найдёте мои проекты, связанные с парсингом, ботами и бэкенд-разработкой.
 
